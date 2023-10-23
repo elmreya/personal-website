@@ -1,0 +1,71 @@
+body {
+  text-align: center;
+  background-color: rgb(254, 229, 207);
+  font-family: Roboto
+}
+ 
+.heading {
+  width: auto;
+  font-size: 75px;
+  font-family: Roboto;
+  background-color: rgb(254, 229, 207);
+  border-width: 0;
+  display: block;
+  margin:auto;
+  margin-bottom: 100px;
+  cursor: pointer;
+}
+
+.about-me {
+  font-family: Roboto;
+  background-color: rgb(254, 229, 207);
+  font-size: 50px;
+  cursor:pointer;
+  margin-right: 500px;
+  border-style: bold;
+  border-width: 1px;
+  border-color: black;
+  transition: background-color 0.25s,
+      color 0.25s;
+}
+
+.about-me:hover {
+  background-color: black;
+  color: rgb(254, 229, 207);
+}
+
+.github {
+  font-family: Roboto;
+  background-color: rgb(254, 229, 207);
+  font-size: 50px;
+  cursor:pointer;
+  border-style: bold;
+  border-width: 1px;
+  border-color: black;
+  transition: background-color 0.25s,
+      color 0.25s;
+}
+
+.github:hover {
+  background-color: black;
+  color: rgb(254, 229, 207);
+}
+
+.projects {
+  font-family: Roboto;
+  background-color: rgb(254, 229, 207);
+  font-size: 50px;
+  cursor:pointer;
+  border-style: bold;
+  border-width: 1px;
+  border-color: black;
+  margin: auto;
+  margin-top: 100px;
+  transition: background-color 0.25s,
+      color 0.25s;
+}
+
+.projects:hover {
+  background-color: black;
+  color: rgb(254, 229, 207);
+}
