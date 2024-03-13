@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  background-color: rgb(254, 229, 207);
+  font-family: "Roboto";
+  font-size: 25px;
+  color: black;
+}
+
+.title {
+  font-family: "Roboto";
+  width: auto;
+  font-size: 75px;
+  background-color: rgb(254, 229, 207);
+  border-width: 0;
+  display:block;
+  margin: auto;
+  margin-bottom: 100px; 
+  margin-top: 20px;
+  cursor:pointer;
+  color: black;
+}
+
+.pre-design-stage {
+  font-family: "Roboto";
+  background-color: rgb(254, 229, 207);
+  font-size: 45px;
+  cursor:pointer;
+  border-width: 1px;
+  border-color: black;
+  color: black;
+  transition: background-color 0.25s,
+      color 0.25s;
+}
+
+.pre-design-stage:hover {
+  color: rgb(254, 229, 207);
+  background-color: black;
+}
+
