@@ -5,6 +5,56 @@ body{
   font-size: 25px;
 }
 
+button{
+  text-decoration: none;
+}
+
 .title {
   font-size: 50px;
+  width: auto;
+  font-size: 75px;
+  font-family: Roboto;
+  background-color: rgb(254, 229, 207);
+  border-width: 0;
+  display: block;
+  margin:auto;
+  margin-bottom: 100px;
+  cursor: pointer;
+}
+
+.project-1-title{
+  font-family: Roboto;
+  background-color: rgb(254, 229, 207);
+  font-size: 50px;
+  margin-right: 100px;
+  text-decoration: none;
+  cursor:pointer;
+  border-style: bold;
+  border-width: 1px;
+  border-color: black;
+  transition: background-color 0.25s,
+      color 0.25s;
+}
+
+.project-1-title:hover {
+  background-color: black;
+  color: rgb(254, 229, 207);
+}
+
+.project-2-title{
+  font-family: Roboto;
+  background-color: rgb(254, 229, 207);
+  font-size: 50px;
+  cursor:pointer;
+  text-decoration: none;
+  border-style: bold;
+  border-width: 1px;
+  border-color: black;
+  transition: background-color 0.25s,
+      color 0.25s;
+}
+
+.project-2-title:hover {
+  background-color: black;
+  color: rgb(254, 229, 207);
 }
