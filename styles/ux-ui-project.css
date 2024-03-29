@@ -54,3 +54,24 @@ body {
   color: rgb(254, 229, 207);
   background-color: black;
 }
+
+.p1 {
+  width:50%;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 75px;
+}
+
+.p2 {
+  width:50%;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 75px;
+}
+
+.p3 {
+  width:50%;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 75px;
+}
