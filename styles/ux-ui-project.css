@@ -1,20 +1,23 @@
 body {
   text-align: center;
-  background-color: rgb(254, 229, 207);
+  /*background-color: rgb(254, 229, 207);*/
+  background-color: white;
   font-family: "Roboto";
   font-size: 25px;
-  color: black;
+  /*color: black;*/
+  color: rgb(88, 87, 87);
 }
 
 .title {
   font-family: "Roboto";
   width: auto;
   font-size: 75px;
-  background-color: rgb(254, 229, 207);
+  /*background-color: rgb(254, 229, 207);*/
+  background-color: white;
   border-width: 0;
   display:block;
   margin: auto;
-  margin-bottom: 100px; 
+  margin-bottom: 50px; 
   margin-top: 20px;
   cursor:pointer;
   color: black;
@@ -22,7 +25,8 @@ body {
 
 .pre-design-stage {
   font-family: "Roboto";
-  background-color: rgb(254, 229, 207);
+  /*background-color: rgb(254, 229, 207);*/
+  background-color: white;
   font-size: 45px;
   cursor:pointer;
   border-width: 1px;
@@ -34,14 +38,16 @@ body {
 }
 
 .pre-design-stage:hover {
-  color: rgb(254, 229, 207);
+  /*color: rgb(254, 229, 207);*/
+  color: white;
   background-color: black;
 }
 
 
 .early-design-stage {
   font-family: "Roboto";
-  background-color: rgb(254, 229, 207);
+  /*background-color: rgb(254, 229, 207);*/
+  background-color: white;
   font-size: 45px;
   cursor:pointer;
   border-width: 1px;
@@ -53,7 +59,8 @@ body {
 }
 
 .early-design-stage:hover {
-  color: rgb(254, 229, 207);
+  /*color: rgb(254, 229, 207);*/
+  color: white;
   background-color: black;
 }
 
