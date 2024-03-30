@@ -28,6 +28,7 @@ body {
   border-width: 1px;
   border-color: black;
   color: black;
+  margin-bottom: 25px;
   transition: background-color 0.25s,
       color 0.25s;
 }
@@ -46,6 +47,7 @@ body {
   border-width: 1px;
   border-color: black;
   color: black;
+  margin-bottom: 25px;
   transition: background-color 0.25s,
       color 0.25s;
 }
