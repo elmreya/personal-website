@@ -1,21 +1,28 @@
 body{
     text-align: center;
-    background-color: rgb(254, 229, 207);
+    /* background-color: rgb(254, 229, 207); */
+    background-color: white;
     font-family: "Roboto";
     font-size: 25px;
-    color: black;
+    color: rgb(88, 87, 87);
+    width:50%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 75px;
   }
   
   .title {
     font-family: "Roboto";
     width: auto;
     font-size: 50px;
-    background-color: rgb(254, 229, 207);
+    /* background-color: rgb(254, 229, 207);*/
+    background-color: white;
     border-width: 0;
     display:block;
     margin: auto;
-    margin-bottom: 100px; 
+    margin-bottom: 50px; 
     margin-top: 20px;
     cursor:pointer;
     color: black;
   }
+
