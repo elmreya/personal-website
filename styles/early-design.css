@@ -5,10 +5,6 @@ body{
     font-family: "Roboto";
     font-size: 25px;
     color: rgb(88, 87, 87);
-    width:50%;
-    text-align: center;
-    margin: auto;
-    margin-bottom: 75px;
   }
   
   .title {
