@@ -23,29 +23,29 @@ body{
   }
 
   .p1 {
-    width:50%;
+    width: 75%;
     text-align: center;
     margin: auto;
     margin-bottom: 10px;
   }
 
   .model_1 {
-    width:50%;
+    width: 75%;
     text-align: center;
     margin: auto;
-    margin-bottom: 15px;
     font-size: 30px;
+    margin-bottom: 15px;
   }
   
   .model_1_info {
-    width:50%;
+    width: 75%;
     text-align: center;
     margin: auto;
     margin-bottom: 10px;
   }
 
   .model_2 {
-    width:50%;
+    width: 75%;
     text-align: center;
     margin: auto;
     margin-bottom: 15px;
@@ -53,7 +53,7 @@ body{
   }
 
   .model_2_info {
-    width:50%;
+    width: 75%;
     text-align: center;
     margin: auto;
     margin-bottom: 10px;
