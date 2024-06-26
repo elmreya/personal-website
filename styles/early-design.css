@@ -57,4 +57,43 @@ body{
     margin-bottom: 30px;
   }
 
+  .prototype_1 {
+    font-family: "Roboto";
+    /*background-color: rgb(254, 229, 207);*/
+    background-color: white;
+    font-size: 30px;
+    cursor:pointer;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    color: black;
+    margin-bottom: 25px;
+    transition: background-color 0.25s,
+        color 0.25s;
+  }
+
+  .prototype_1:hover {
+    color: white;
+    background-color: black;
+  }
+
+  .prototype_2 {
+    font-family: "Roboto";
+    /*background-color: rgb(254, 229, 207);*/
+    background-color: white;
+    font-size: 30px;
+    cursor:pointer;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    color: black;
+    margin-bottom: 25px;
+    transition: background-color 0.25s,
+        color 0.25s;
+  }
+
+  .prototype_2:hover {
+    color: white;
+    background-color: black;
+  }
 
