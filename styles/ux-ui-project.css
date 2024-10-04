@@ -66,6 +66,29 @@ body {
   background-color: black;
 }
 
+
+.mid-design-stage {
+  font-family: "Roboto";
+  /*background-color: rgb(254, 229, 207);*/
+  background-color: white;
+  font-size: 45px;
+  cursor:pointer;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+  color: black;
+  margin-bottom: 25px;
+  transition: background-color 0.25s,
+      color 0.25s;
+}
+
+.mid-design-stage:hover {
+  /*color: rgb(254, 229, 207);*/
+  color: white;
+  background-color: black;
+}
+
+
 .p1 {
   width:50%;
   text-align: center;
