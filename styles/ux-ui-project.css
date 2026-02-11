@@ -2,14 +2,14 @@ body {
   text-align: center;
   /*background-color: rgb(254, 229, 207);*/
   background-color: white;
-  font-family: "Roboto";
+  font-family: "Times New Roman";
   font-size: 25px;
   /*color: black;*/
   color: rgb(88, 87, 87);
 }
 
 .title {
-  font-family: "Roboto";
+  font-family: "Times New Roman";
   width: auto;
   font-size: 75px;
   /*background-color: rgb(254, 229, 207);*/
@@ -24,7 +24,7 @@ body {
 }
 
 .pre-design-stage {
-  font-family: "Roboto";
+  font-family: "Times New Roman";
   /*background-color: rgb(254, 229, 207);*/
   background-color: white;
   font-size: 45px;
@@ -46,7 +46,7 @@ body {
 
 
 .early-design-stage {
-  font-family: "Roboto";
+  font-family: "Times New Roman";
   /*background-color: rgb(254, 229, 207);*/
   background-color: white;
   font-size: 45px;
@@ -68,7 +68,7 @@ body {
 
 
 .mid-design-stage {
-  font-family: "Roboto";
+  font-family: "Times New Roman";
   /*background-color: rgb(254, 229, 207);*/
   background-color: white;
   font-size: 45px;
